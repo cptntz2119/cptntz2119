@@ -1,4 +1,4 @@
-- 👋 Hi, I’m tony @cptntz2119
+- 👋 Hi, I’m Dong (tony) @cptntz2119
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on hands-on coding practice
