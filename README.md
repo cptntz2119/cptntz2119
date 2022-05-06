@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dong (tony) @cptntz2119
-- 👀 I’m interested in Web development
+- 👀 I’m full stack Web developer
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on hands-on coding practice
 - 📫 Reach me zhangdong2119@hotmail.com
